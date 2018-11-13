@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<limit>
+  <data-comment>54 ton-day exposure</data-comment>
+  <data-label>PandaX-II Light Mediator Limit - 1 MeV</data-label>
+  <data-reference>https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.121.021304</data-reference>
+  <data-values>{[5 6.928631512e-38;
+6 1.333137446e-38;
+7 5.420074222e-39;
+8 2.484894268e-39;
+10 1.148381993e-39;
+14 5.24771315e-40;
+20 3.895547461e-40;
+30 3.419995701e-40;
+40 3.701836498e-40;
+60 4.707016924e-40;
+100 6.672124569e-40;
+400 2.550669705e-39;
+1000 6.355966079e-39;
+4000 2.621572633e-38;
+10000 6.475347284e-38]}</data-values>
+  <date-of-announcement type="date" nil="true"></date-of-announcement>
+  <date-of-run-end type="date" nil="true"></date-of-run-end>
+  <date-of-run-start type="date" nil="true"></date-of-run-start>
+  <default-color>Blk</default-color>
+  <default-style>Line</default-style>
+  <experiment>PandaX</experiment>
+  <measurement-type>Dir</measurement-type>
+  <nomhash type="yaml">--- 
+pauser: false
+</nomhash>
+  <public type="boolean">true</public>
+  <result-type>Exp</result-type>
+  <spin-dependency>SI</spin-dependency>
+  <x-rescale>1</x-rescale>
+  <x-units>GeV</x-units>
+  <y-rescale>1</y-rescale>
+  <y-units>cm^2</y-units>
+  <year type="integer">2018</year>
+</limit>

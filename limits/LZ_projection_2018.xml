@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<limit>
+  <data-comment>1000 live day, 7 tonne active, 5.6 tonne fiducial</data-comment>
+  <data-label>LZ 2018 Projected SI WIMP Sensitivity</data-label>
+  <data-reference>&lt;a href="https://arxiv.org/pdf/1802.06039.pdf"&gt;Projected WIMP sensitivity of the LUX-ZEPLIN (LZ) dark matter experiment, arXiv:1802.06039&lt;/a&gt;</data-reference>
+  <data-values>{[3   2.33876e-06;
+4   5.55441e-08;
+6   1.41651e-09;
+9   6.19866e-11;
+13  8.94762e-12;
+18  3.29771e-12;
+25  1.99561e-12;
+36  1.61107e-12;
+40  1.55966e-12;
+50  1.62466e-12;
+70  1.86061e-12;
+98  2.28703e-12;
+138 2.97178e-12;
+192 3.85422e-12;
+269 5.40902e-12;
+376 7.4315e-12;
+525 1.03372e-11;
+734 1.3918e-11;
+1025    1.94963e-11;
+2000    3.75134e-11]}</data-values>
+  <date-of-announcement type="date" nil="true"></date-of-announcement>
+  <date-of-run-end type="date" nil="true"></date-of-run-end>
+  <date-of-run-start type="date" nil="true"></date-of-run-start>
+  <default-color>Blk</default-color>
+  <default-style>Line</default-style>
+  <experiment>LUX-ZEPLIN</experiment>
+  <measurement-type>Dir</measurement-type>
+  <nomhash type="yaml">--- 
+pauser: false
+</nomhash>
+  <public type="boolean">true</public>
+  <result-type>Proj</result-type>
+  <spin-dependency>SI</spin-dependency>
+  <x-rescale>1</x-rescale>
+  <x-units>GeV</x-units>
+  <y-rescale>1e-36</y-rescale>
+  <y-units>cm^2</y-units>
+  <year type="integer">2018</year>
+</limit>

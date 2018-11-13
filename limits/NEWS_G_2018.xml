@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<limit>
+  <data-comment></data-comment>
+  <data-label>NEWS-G FIrst Results</data-label>
+  <data-reference>Q. Arnaud et. al., First results from the NEWS-G direct dark matter search experiment at the LSM, Astroparticle Physics, Volume 97, 2018, Pages 54-62,
+&lt;a href="https://doi.org/10.1016/j.astropartphys.2017.10.009"&gt;DOI&lt;/a&gt;</data-reference>
+  <data-values>{[0.5            4.37521e-1;
+0.7            1.16892e-1;
+1            5.5003e-2;
+2            1.06391e-2;
+3            6.24413e-3;
+6            3.84965e-3;
+10            3.65859e-3;
+16            4.38463e-3]}</data-values>
+  <date-of-announcement type="date" nil="true"></date-of-announcement>
+  <date-of-run-end type="date" nil="true"></date-of-run-end>
+  <date-of-run-start type="date" nil="true"></date-of-run-start>
+  <default-color>Blk</default-color>
+  <default-style>Line</default-style>
+  <experiment>NEWS-G</experiment>
+  <measurement-type>Dir</measurement-type>
+  <nomhash type="yaml">--- 
+pauser: false
+</nomhash>
+  <public type="boolean">true</public>
+  <result-type>Exp</result-type>
+  <spin-dependency>SI</spin-dependency>
+  <x-rescale>1</x-rescale>
+  <x-units>GeV</x-units>
+  <y-rescale>1e-36</y-rescale>
+  <y-units>cm^2</y-units>
+  <year type="integer">2018</year>
+</limit>
